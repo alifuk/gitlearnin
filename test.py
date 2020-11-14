@@ -1,5 +1,5 @@
 def funkce1():
-    print('fdsadf')
+    print('zmena')
     pass
 
 def funkce2():
