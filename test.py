@@ -6,7 +6,7 @@ def funkce2():
     print('v22')
     pass
 
-def fuknce3():
+def funkce3():
     pass
 
 
