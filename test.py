@@ -19,6 +19,8 @@ def funkce3():
 #den5
 
 
+#dalsidulezitavec
+
 
 
 
