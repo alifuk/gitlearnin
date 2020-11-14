@@ -13,9 +13,9 @@ def alesovafunkce():
 alesovafunkce()
 
 def funkce3():
-    sdf
+    pass
 #merge
-
+#den4
 
 
 
