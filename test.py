@@ -12,5 +12,6 @@ def funkce3():
 def funkce3(df):
     fdsa
 
-
+def funkce4():
+    pass
 
