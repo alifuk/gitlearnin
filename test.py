@@ -5,6 +5,7 @@ def funkce1():
 
 def funkce2():
     print('v22')
+    #hrozne dlouho jsem tohl dělal
     pass
 
 def funkce3():
