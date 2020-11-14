@@ -8,7 +8,7 @@ os.listdir('.')
 print('hi')
 
 def alesovafunkce():
-    print('ha')
+    print('haha')
     pass
 alesovafunkce()
 
