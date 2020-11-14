@@ -9,6 +9,8 @@ def funkce2():
 
 def funkce3():
     pass
+def funkce3(df):
+    fdsa
 
 
 
