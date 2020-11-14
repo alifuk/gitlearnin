@@ -6,3 +6,6 @@ a = 8
 a = a*8
 os.listdir('.')
 print('hi')
+
+def alesovafunkce():
+    !!udelat
