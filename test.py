@@ -4,7 +4,8 @@ def funkce1():
 def funkce2():
     pass
 
-
+def fuknce3():
+    pass
 
 
 
