@@ -13,6 +13,7 @@ def alesovafunkce():
 alesovafunkce()
 
 def funkce3():
+    #hahaha
     pass
 #merge
 #den4
