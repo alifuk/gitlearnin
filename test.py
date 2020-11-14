@@ -22,7 +22,7 @@ def funkce3():
 
 #dalsidulezitavec
 
-
+# jo vypadá to ok
 
 
 
