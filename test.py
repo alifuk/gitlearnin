@@ -11,3 +11,15 @@ def alesovafunkce():
     print('ha')
     pass
 alesovafunkce()
+
+#merge
+
+
+
+
+
+
+
+
+
+
