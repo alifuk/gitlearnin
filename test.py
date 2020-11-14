@@ -8,4 +8,6 @@ os.listdir('.')
 print('hi')
 
 def alesovafunkce():
-    !!udelat
+    print('ha')
+    pass
+alesovafunkce()
